@@ -1,13 +1,7 @@
-![pipeline](https://git.csc.sibsutis.ru/trpo2024/rgr-arhipov-ip311s03/badges/master/pipeline.svg)
-![release](https://git.csc.sibsutis.ru/trpo2024/rgr-arhipov-ip311s03/-/badges/release.svg)
+# CodeDocGenerator
 
-## Разработчики:
-
-> [Архипов К.С.](https://git.csc.sibsutis.ru/ip311s03)
-
-> [Абрамов М.В.](https://git.csc.sibsutis.ru/ip311s01)
-
-> [Проскоков И.А.](https://git.csc.sibsutis.ru/ip311s20)
+> [!NOTE]
+> Проект перенесен из GitLab
 
 ## О приложении
 
@@ -45,10 +39,9 @@
 
 Сборка
 ``` Bash
-git clone https://git.csc.sibsutis.ru/trpo2024/rgr-arhipov-ip311s03.git
-cd rgr-arhipov-ip311s03
+git clone https://github.com/Konstkonst55/CodeDocGenerator.git
+cd CodeDocGenerator
 make
-
 ```
 
 Использование
